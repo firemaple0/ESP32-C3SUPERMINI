@@ -8,7 +8,9 @@ Guide to use ESP32-C3 Supermini board that you Bought From Aliexpress
 <h2><------- How To Flash The Board --------></h2>
 	
 this board was the only one where you not only have to hold the boot button while plugging in, but also have to KEEP HOLDING it until you starting flashing. then right after flashing starts you have to release the boot button. <br><br>
-	
+
+<h2><--------- More INFO About the Board ---------></h2>
+
 here is the "product introduction (c3 supermini board guide from Aliexpress)" [c3 supermini board guid.pdf](https://github.com/user-attachments/files/17317016/c3.supermini.board.guid.pdf) I found from Aliexpress.
 
 <font color="red"> Don't trust the "esp32-c3 supermini board guide from Aliexpress" pdf.<font> anything other than it's 1st, 2nd pages are wrong info. the one who made it can't even write the "led fade" code example.<br>
