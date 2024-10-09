@@ -13,7 +13,8 @@ this board was the only one where you not only have to hold the boot button whil
 
 here is the "product introduction (c3 supermini board guide from Aliexpress)" [c3 supermini board guid.pdf](https://github.com/user-attachments/files/17317016/c3.supermini.board.guid.pdf) I found from Aliexpress.
 
-Don't trust the "esp32-c3 supermini board guide from Aliexpress" pdf.  anything other than it's 1st, 2nd pages are wrong info. the one who made it can't even write the "led fade" code example.<br>
+Don't trust the "esp32-c3 supermini board guide from Aliexpress" pdf.  anything other than it's 1st, 2nd pages are wrong info.<br>
+
 here are some links that you need to visit.<br>
 
 https://espressif.github.io/esp32-c3-book-en/#:~:text=ESP32-C3%20is%20a%20single,effective%20solution%20for%20connected%20devices.<br>
