@@ -27,7 +27,7 @@ Don't trust the "c3 supermini board guide" pdf for anything other than 1st, 2nd 
 
 	9. Upload Speed:"115200"
 
-       10. Zigbee Mode: "Disabled"
+	10. Zigbee Mode: "Disabled"
 
 Follow the first instruction to upload the code. 
 
