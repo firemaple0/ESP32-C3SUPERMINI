@@ -61,4 +61,22 @@ pin-8 / GPIO-8 is the one that is connected to onboard blue LED.
 <h2><----------- I^2C Problems ----------></h2>
 Don't use Default I2C pins. pin8 has on board led and it does not work. <b>use GPIO-1,GPIO-2 pins.</b>. if you can, Do a bit of research and find out a way to use some other pins.
 
+<-------- EXAMPLE --------->
+
+void setup() {
+  Wire.begin();
+  Serial.begin(115200);
+  Serial.println("\nI2C Scanner");
+}
+
+Edit " Wire.begin(); "  TO  " Wire.begin(1, 2); "
+
+void setup() {
+  Wire.begin(1, 2);
+  Serial.begin(115200);
+  Serial.println("\nI2C Scanner");
+}
+
+I tried other ways but this is the only one that works.
+
 END.
