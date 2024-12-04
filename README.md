@@ -46,7 +46,7 @@ here is how to set up everything and upload the code to esp32-c3 supermini.
 
 Follow the first instruction to upload the code. <br>
 
-if your Code messed up with the Firmware (it happens some times when you try to use I2C Library) here is how to flash Firmware.
+if your Code messed up with the Firmware (it happens some times when you try to use I2C Library) and can't upload code normally anymore, here is how to flash Firmware.
 
 https://docs.espressif.com/projects/esp-at/en/release-v2.4.0.0/esp32c3/AT_Binary_Lists/ESP32-C3_AT_binaries.html<br>
 
